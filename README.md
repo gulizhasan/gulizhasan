@@ -1,6 +1,6 @@
 👋 Hi, 
-I’m Guliz Hasan
-a Software Developer 
+I’m Guliz Hasan\n
+a Software Developer \n\n
 
 - 📫 How to reach me https://www.linkedin.com/in/gulizhasan
 
