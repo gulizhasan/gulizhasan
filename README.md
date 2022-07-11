@@ -1,8 +1,8 @@
-👋 Hi, 
-I’m Guliz Hasan\n
-a Software Developer \n\n
+###👋 Hi, 
+#I’m **Guliz Hasan**
+#a Software Developer
 
-- 📫 How to reach me https://www.linkedin.com/in/gulizhasan
+- 📫 [Contact me] (https://www.linkedin.com/in/gulizhasan)
 
 <!---
 gulizhasan/gulizhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
